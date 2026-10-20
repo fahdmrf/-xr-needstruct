@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-from utils.analyzer import XRNeedAnalyzer, to_pretty_json
+from xr_analyzer import XRNeedAnalyzer, to_pretty_json
 
 APP_TITLE = "XR NeedStruct — Extracteur de besoins XR industriels"
 DATA_DIR = Path(__file__).parent / "data"
