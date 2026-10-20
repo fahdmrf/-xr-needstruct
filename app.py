@@ -21,11 +21,17 @@ def load_examples():
     path = DATA_DIR / "examples.json"
     if path.exists():
         return json.loads(path.read_text(encoding="utf-8"))
-    return []
+    from xr_data import FILES
+    return json.loads(FILES.get("examples.json", "[]"))
 
 @st.cache_data
 def load_csv(name: str):
-    return pd.read_csv(DATA_DIR / name)
+    path = DATA_DIR / name
+    if path.exists():
+        return pd.read_csv(path)
+    from io import StringIO
+    from xr_data import FILES
+    return pd.read_csv(StringIO(FILES[name]))
 
 
 def card(label: str, value: str | int | float | None, help_text: str = ""):

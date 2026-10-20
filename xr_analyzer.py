@@ -96,9 +96,13 @@ class XRNeedAnalyzer:
 
     def _read_csv(self, name: str) -> pd.DataFrame:
         path = self.data_dir / name
-        if not path.exists():
-            return pd.DataFrame()
-        return pd.read_csv(path).fillna("")
+        if path.exists():
+            return pd.read_csv(path).fillna("")
+        from io import StringIO
+        from xr_data import FILES
+        if name in FILES:
+            return pd.read_csv(StringIO(FILES[name])).fillna("")
+        return pd.DataFrame()
 
     def _prepare_tables(self):
         for attr in ["xr_domain", "activities", "hardware", "objects", "real_indicators"]:
