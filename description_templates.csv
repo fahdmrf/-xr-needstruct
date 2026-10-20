@@ -1,0 +1,11 @@
+condition,template
+scene + maintenance,Scène XR centrée sur une intervention technique en environnement industriel.
+scene + production,"Scène XR centrée sur un poste, une ligne ou une opération de production."
+scene + conception,"Scène XR dédiée à la visualisation, la revue ou la validation d’un produit ou prototype."
+objet principal + maintenance,Équipement principal concerné par l’intervention de maintenance.
+objet principal + production,Élément central du scénario de production ou d’assemblage.
+objet principal + conception,"Objet ou prototype utilisé pour la visualisation, la validation ou la revue de conception."
+sous-composant + démontage,Composant à retirer ou ouvrir pour accéder aux éléments internes.
+petit composant + assemblage,Élément de fixation ou de connexion manipulé pendant l’assemblage.
+petit composant + démontage,"Élément à retirer, desserrer ou déconnecter pendant la procédure."
+objet inconnu,"Objet technique identifié dans le texte utilisateur, à confirmer ou à enrichir dans la base."

@@ -1,0 +1,9 @@
+family,level,description,examples
+Scène industrielle,scene,Lieu ou environnement global de l’application XR,usine; atelier; ligne de production; entrepôt
+Machine industrielle,objet principal,Équipement principal utilisé dans un scénario industriel,machine CNC; pompe; robot; convoyeur; moteur
+Produit / prototype,objet principal,"Produit, prototype ou modèle à concevoir, valider ou tester",produit; prototype; maquette; modèle CAO
+Sous-composant mécanique,sous-composant,Partie mécanique d’un équipement,carter; arbre; roulement; engrenage
+Sous-composant électrique,sous-composant,Partie électrique ou électronique d’un système,câble; connecteur; capteur; carte électronique
+Petit composant,petit composant,Élément de détail souvent manipulé ou fixé,vis; boulon; écrou; rondelle; joint
+Outil,outil,Objet utilisé pour agir sur un composant,tournevis; clé Allen; multimètre
+Élément virtuel XR,élément virtuel,Information ou aide visuelle affichée dans l’environnement XR,flèche; annotation; alerte; checklist

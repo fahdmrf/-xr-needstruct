@@ -1,0 +1,121 @@
+keyword,family,object_level,default_description,possible_actions,synonyms,associated_domains,associated_activities,confidence
+usine,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,factory; plant,Any,Any,high
+atelier,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,workshop,Any,Any,high
+ligne de production,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,production line,Any,Any,high
+poste de travail,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+poste d’assemblage,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+zone de maintenance,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+entrepôt,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,warehouse,Any,Any,high
+laboratoire,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+salle de revue,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+local technique,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+cellule robotisée,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+cockpit,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+chantier,Scène industrielle,scene,Environnement industriel ou technique global de la scène XR.,visualiser; simuler; naviguer,,Any,Any,high
+machine,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+machine cnc,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+robot industriel,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,robot; robotic arm,Any,Any,high
+bras robotisé,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+convoyeur,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,conveyor,Any,Any,high
+pompe,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,pump,Any,Any,high
+pompe industrielle,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+moteur,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,motor; engine,Any,Any,high
+moteur électrique,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+compresseur,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+turbine,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+armoire électrique,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+automate,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+presse,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+four industriel,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+véhicule,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+avion,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,,Any,Any,high
+échangeur thermique,Machine industrielle,objet principal,Équipement industriel pouvant constituer l’objet central du scénario XR.,inspecter; maintenir; réparer; simuler; assembler,heat exchanger,Any,Any,high
+produit,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+prototype,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+maquette,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+modèle cao,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+modele cao,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+module,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+pièce,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+piece,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+assemblage mécanique,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+assemblage mecanique,Produit / prototype,objet principal,"Objet ou prototype utilisé pour la visualisation, la validation ou l’assemblage.",visualiser; valider; assembler; comparer,product; prototype; mockup; cad model,Any,Any,high
+carter,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,capot; couvercle; housing,Any,Any,high
+capot,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+couvercle,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+châssis,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+chassis,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+support,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+panneau,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+boîtier,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+boitier,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+arbre,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+roulement,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,bearing,Any,Any,high
+engrenage,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,gear,Any,Any,high
+courroie,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,belt,Any,Any,high
+poulie,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+vanne,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+tuyau,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+filtre,Sous-composant mécanique,sous-composant,Sous-composant mécanique associé à un équipement principal.,ouvrir; retirer; inspecter; remplacer; fixer,,Any,Any,high
+câble,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,fil; wire; harness,Any,Any,high
+cable,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,fil; wire; harness,Any,Any,high
+connecteur,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,connector,Any,Any,high
+capteur,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,sensor,Any,Any,high
+carte électronique,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,pcb; board,Any,Any,high
+carte electronique,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,,Any,Any,high
+borne,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,,Any,Any,high
+cosse,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,,Any,Any,high
+fusible,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,,Any,Any,high
+automate programmable,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,,Any,Any,high
+plc,Sous-composant électrique,sous-composant,"Composant électrique ou électronique impliqué dans la connexion, la mesure ou le diagnostic.",connecter; déconnecter; remplacer; calibrer; mesurer,,Any,Any,high
+vis,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,screw; visserie; viss,Any,Any,high
+boulon,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,bolt; goulon,Any,Any,high
+écrou,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,nut; ecrout,Any,Any,high
+ecrou,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+rondelle,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,washer,Any,Any,high
+goupille,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+goujon,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+rivet,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+ressort,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+clip,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+joint,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,seal; gasket,Any,Any,high
+joint torique,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+bague,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+étiquette,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+etiquette,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+qr code,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+tournevis,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,screwdriver,Any,Any,high
+clé allen,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,allen key,Any,Any,high
+cle allen,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+clé plate,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+cle plate,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+clé dynamométrique,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+cle dynamometrique,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+pince,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+multimètre,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,multimeter,Any,Any,high
+multimetre,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+pied à coulisse,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+pied a coulisse,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+manomètre,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+manometre,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+caméra thermique,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+camera thermique,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+outil de diagnostic,Outil,outil,Outil utilisé pour réaliser une action technique dans le scénario.,visser; serrer; mesurer; diagnostiquer; inspecter,,Any,Any,high
+flèche,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,arrow,Any,Any,high
+fleche,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+annotation,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,label; note,Any,Any,high
+instruction,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+texte,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+alerte,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,warning,Any,Any,high
+surbrillance,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,highlight,Any,Any,high
+checklist,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+panneau virtuel,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+animation,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+trajectoire,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+jumeau numérique,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+jumeau numerique,Élément virtuel XR,élément virtuel,"Élément virtuel utilisé pour informer, guider ou mettre en évidence une zone dans l’environnement XR.",afficher; guider; annoter; alerter,,Any,Any,high
+boulons,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,bolt; goulon,Any,Any,high
+joints,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,seal; gasket,Any,Any,high
+écrous,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,nut; ecrout,Any,Any,high
+ecrous,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,,Any,Any,high
+rondelles,Petit composant,petit composant,"Petit composant industriel pouvant nécessiter un guidage, une manipulation ou une modélisation détaillée.",visser; dévisser; serrer; desserrer; retirer; remplacer; placer,washer,Any,Any,high

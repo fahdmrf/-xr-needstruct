@@ -1,0 +1,16 @@
+xr,domain,activity,recommended_hardware,required_sensors,reason,priority
+VR,Any,Formation,Casque VR; Contrôleurs VR/MR,Tracking spatial,Formation immersive en environnement virtuel,1
+VR,Any,Simulation,Casque VR; Contrôleurs VR/MR,Tracking spatial,Simulation immersive et interaction avec objets virtuels,1
+VR,Conception,Revue collaborative,Casque VR; Contrôleurs VR/MR; Écran externe / poste de supervision,Audio; réseau collaboratif,Revue de conception immersive multi-utilisateur,1
+VR,Any,Capture de mouvement,Casque VR; Capteurs de mouvement,Body tracking; hand tracking,Analyse de gestes ou postures,1
+AR,Any,Guidage procédural,Tablette AR; Lunettes AR,Caméra RGB; reconnaissance d’objet; marqueurs visuels,Instructions sur objet réel,1
+AR,Production,Assemblage,Lunettes AR; Tablette AR,Caméra RGB; marqueurs visuels; tracking objet,Guidage mains libres ou mobile pour assemblage,1
+AR,Production,Contrôle qualité,Tablette AR; Lunettes AR,Caméra RGB; caméra de profondeur,Contrôle visuel ou dimensionnel sur pièce réelle,1
+AR,Maintenance,Assistance,Lunettes AR; Tablette AR,Caméra RGB; microphone,Assistance terrain et support technicien,1
+AR,Maintenance,Diagnostic,Tablette AR; Lunettes AR,Caméra RGB; scanner 3D selon besoin,Diagnostic sur équipement réel,1
+MR,Any,Guidage procédural,Casque MR,Spatial mapping; hand tracking; ancrage spatial,Interaction spatialement ancrée avec le réel,1
+MR,Maintenance,Réparation,Casque MR,Spatial mapping; caméra de profondeur; hand tracking,Réparation avec alignement réel-virtuel,1
+MR,Any,Localisation et tracking,Casque MR; Lunettes AR,Tracking spatial; UWB/RFID si disponible,Suivi d’objets ou positionnement dans l’espace,1
+Any,Maintenance,Assistance,Tablette AR; Lunettes AR; Casque MR,Caméra RGB; microphone,Maintenance sur site avec aide contextuelle,1
+Any,Production,Optimisation des flux,Casque VR; Tablette AR; Écran externe / poste de supervision,Tracking spatial optionnel,Analyse d’implantation et des flux,1
+Any,Conception,Évaluation ergonomique,Casque VR; Casque MR,Tracking spatial; capture de mouvement optionnelle,Validation ergonomique par immersion ou interaction spatiale,1

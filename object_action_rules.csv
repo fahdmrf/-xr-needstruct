@@ -1,0 +1,12 @@
+action_keyword,object_level_or_family,interpretation,recommended_lod
+retirer,petit composant,objet manipulé pendant une opération de démontage,élevé
+dévisser,petit composant,élément de fixation à retirer,élevé
+desserrer,petit composant,élément de fixation manipulé,élevé
+serrer,petit composant,élément de fixation à contrôler ou fixer,élevé
+visser,petit composant,élément de fixation à monter,élevé
+remplacer,sous-composant,composant critique à remplacer,élevé
+calibrer,sous-composant,composant nécessitant un réglage précis,très élevé
+mesurer,Any,objet nécessitant une précision dimensionnelle ou physique,très élevé
+inspecter,Any,objet à visualiser avec précision,très élevé
+assembler,Any,objet manipulé dans une opération d’assemblage,élevé
+démonter,Any,objet manipulé dans une opération de démontage,élevé

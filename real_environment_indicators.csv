@@ -1,0 +1,47 @@
+keyword,indicator_type,interaction_type,confidence
+réel,real_presence,interaction avec objet ou lieu réel,high
+reel,real_presence,interaction avec objet ou lieu réel,high
+réelle,real_presence,interaction avec objet ou lieu réel,high
+reelle,real_presence,interaction avec objet ou lieu réel,high
+physique,real_presence,interaction avec objet ou lieu réel,high
+sur site,real_presence,interaction avec objet ou lieu réel,high
+terrain,real_presence,interaction avec objet ou lieu réel,high
+dans l’atelier,real_presence,interaction avec objet ou lieu réel,high
+dans l atelier,real_presence,interaction avec objet ou lieu réel,high
+dans l’usine,real_presence,interaction avec objet ou lieu réel,high
+dans l usine,real_presence,interaction avec objet ou lieu réel,high
+machine réelle,real_presence,interaction avec objet ou lieu réel,high
+machine reelle,real_presence,interaction avec objet ou lieu réel,high
+pièce réelle,real_presence,interaction avec objet ou lieu réel,high
+piece reelle,real_presence,interaction avec objet ou lieu réel,high
+objet réel,real_presence,interaction avec objet ou lieu réel,high
+objet reel,real_presence,interaction avec objet ou lieu réel,high
+équipement réel,real_presence,interaction avec objet ou lieu réel,high
+equipement reel,real_presence,interaction avec objet ou lieu réel,high
+sur la machine,overlay,superposition d’instructions,high
+sur la pièce,overlay,superposition d’instructions,high
+sur la piece,overlay,superposition d’instructions,high
+sur le moteur,overlay,superposition d’instructions,high
+sur la pompe,overlay,superposition d’instructions,high
+sur le carter,overlay,superposition d’instructions,high
+afficher sur,overlay,superposition d’instructions,high
+projeter sur,overlay,superposition d’instructions,high
+superposer sur,overlay,superposition d’instructions,high
+overlay sur,overlay,superposition d’instructions,high
+scanner,perception,reconnaissance / tracking d’objet réel,medium
+scan,perception,reconnaissance / tracking d’objet réel,medium
+détecter,perception,reconnaissance / tracking d’objet réel,medium
+detecter,perception,reconnaissance / tracking d’objet réel,medium
+reconnaître,perception,reconnaissance / tracking d’objet réel,medium
+reconnaitre,perception,reconnaissance / tracking d’objet réel,medium
+identifier,perception,reconnaissance / tracking d’objet réel,medium
+suivre la position,perception,reconnaissance / tracking d’objet réel,medium
+tracker,perception,reconnaissance / tracking d’objet réel,medium
+localiser,perception,reconnaissance / tracking d’objet réel,medium
+aligner,real_virtual_relation,alignement / ancrage réel-virtuel,high
+ancrer,real_virtual_relation,alignement / ancrage réel-virtuel,high
+ancrage spatial,real_virtual_relation,alignement / ancrage réel-virtuel,high
+spatial anchor,real_virtual_relation,alignement / ancrage réel-virtuel,high
+spatial mapping,real_virtual_relation,alignement / ancrage réel-virtuel,high
+alignement réel virtuel,real_virtual_relation,alignement / ancrage réel-virtuel,high
+alignement reel virtuel,real_virtual_relation,alignement / ancrage réel-virtuel,high
